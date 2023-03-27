@@ -21,7 +21,6 @@
     margin-left: auto;
     width: 0.2vw;
     background-color:red;
-
 }
 
 
@@ -37,12 +36,12 @@
 }
 
 
-.text__details--first{
-    font-weight: 700;
+.info__text--first{
+    font-weight: bolder;
     font-size: 1rem;
 }
 
-.text__details--second{
+.info__text--second{
     font-weight: 400;
     font-size: 0.9rem;
 }
